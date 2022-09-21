@@ -19,8 +19,8 @@ The name of reservation “hal_training” is only needed for this workshop, lea
 Step 3: Once the job starts, launch a terminal and run. The code of this tutorial is available to download:
 
 	mkdir tf_intro
-cd  tf_intro
-git clone https://github.com/siriluo2012/HAL_Training.git 
+	cd  tf_intro
+	git clone https://github.com/siriluo2012/HAL_Training.git 
 
 
 Other useful links:
