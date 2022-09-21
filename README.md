@@ -8,11 +8,11 @@ Step 1: Go to https://hal-ondemand.ncsa.illinois.edu/pun/sys/dashboard and login
 
 Step 2: Click “My Interactive Sessions” tab, then “Jupyter Notebook”, and fill out the form like:
 
-Partition: gpu
-Number of hours: 2
-Name of reservation:  hal_training 
-Num. of CPUs:  4
-Num. of GPUs:  1 
+-Partition: gpu
+-Number of hours: 2
+-Name of reservation:  hal_training 
+-Num. of CPUs:  4
+-Num. of GPUs:  1 
 
 The name of reservation “hal_training” is only needed for this workshop, leave it empty afterwards. 
 
